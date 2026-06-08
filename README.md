@@ -1,3 +1,5 @@
+14325060/T.24
+ALEX DISHON TIMOTHEO 
 # DUKALANGU — Database setup
 
 1. Place this folder in your XAMPP `htdocs` (e.g. `c:\xampp\htdocs\DUKALANGU`).
